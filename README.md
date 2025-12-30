@@ -1,0 +1,32 @@
+# grentperez – 2DK
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Cannabis like slime'
+Sürtük benim gözümdesin 2dk sonra yine başka
+Benim istek benim arzu sana karşı fazla
+Düşünceleri sakla
+Gözlerini kapa
+Ağladın mı bebek senin beyin harbi hasta
+Baştan söyle ben mi o mu ona göre tamam
+Aklımdakileri sana karşı okuyamam
+Beni düşünme tamam
+Yenisine dadan
+Ama sonra Arben geri ona aman
+Gece arabada fazla kilometre
+Benim kafa melez gibi olmuş
+Evet düşünceler seni üzebilir
+Seni dökebilir seni vurabilir
+Benim düşünceler seni vurabilir
+Sürtük benim gözümdesin 2dk sonra yine başka
+Benim istek benim arzu sana karşı fazla
+Düşünceleri sakla
+Gözlerini kapa
+Ağladın mı bebek senin beyin harbi hasta
+Baştan söyle ben mi o mu ona göre tamam
+Aklımdakileri sana karşı okuyamam
+Beni düşünme tamam
+Yenisine dadan
+Ama sonra Arben geri ona aman
+```
