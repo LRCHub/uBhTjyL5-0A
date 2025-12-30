@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "2DK",
+  "base_artist": "grentperez",
+  "createdAt": "2025-12-30T04:07:35.855026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tama Tama Newtown (2DK session)",
+      "artist": "Soutaiseiriron",
+      "has_synced": true,
+      "path": "select/01_Tama_Tama_Newtown_(2DK_session)_Soutaiseiriron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Umarli poeci prod. 2DK (Umarli poeci)",
+      "artist": "donGURALesko",
+      "has_synced": true,
+      "path": "select/02_Umarli_poeci_prod._2DK_(Umarli_poeci)_donGURALesko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Umarli poeci prod. 2DK",
+      "artist": "Donguralesko",
+      "has_synced": true,
+      "path": "select/03_Umarli_poeci_prod._2DK_Donguralesko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "2DK",
+      "artist": "grentperez",
+      "has_synced": true,
+      "path": "select/04_2DK_grentperez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "2dk",
+      "artist": "ARB3N",
+      "has_synced": false,
+      "path": "select/05_2dk_ARB3N.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2DK",
+      "artist": "grentperez",
+      "has_synced": false,
+      "path": "select/pl_01_2DK_grentperez.txt"
+    }
+  ]
+}
